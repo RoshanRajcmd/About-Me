@@ -4,7 +4,7 @@ I am a passionate and results-driven developer with  a solid grounding in core J
 
 I specialize in building robust full-stack applications using modern frameworks such as Spring Boot, Node.js, React, Angular, and React Native. My cloud expertise spans AWS, Azure, and GCP, and I’m well-versed in containerization and orchestration with Docker, Kubernetes, and OpenShift. 🧑‍💻 I also bring hands-on experience with both SQL and NoSQL databases, CI/CD pipelines (Jenkins, GitLab), and tools like Kafka and Terraform.
 
-👾 What motivates me is the chance to create impactful tech solutions that improve user experiences and contribute to organizational success. I excel in dynamic, agile settings where innovation and thoughtful design merge to create real-world effects. 
+👾 What motivates me is the chance to create impactful tech solutions that improve user experiences and contribute to overall growth. I excel in dynamic, agile settings where innovation and thoughtful design merge to create real-world effects. 
 
 📩 Let’s connect and create something exceptional together!
 roshanraj5121999@gmail.com
